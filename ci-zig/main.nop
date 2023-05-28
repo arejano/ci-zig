@@ -1,0 +1,4 @@
+
+fn main void { 
+	pln("running nop for the first time");
+}
